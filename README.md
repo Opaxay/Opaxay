@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Opaxay
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python n Html
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python
 - 📫 How to reach me Opax#0107 on discord, send me "I come from Github"
 
 <!---
